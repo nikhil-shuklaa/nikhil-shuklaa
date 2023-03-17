@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **nikhil@helpinggeeks.com**
 
-- 📄 Know about my experiences [HelpingGeeks.com](HelpingGeeks.com)
+- 📄 Know about my experiences <a href="https://helpinggeeks.com">HelpingGeeks</a>
 
 - ⚡ Fun fact **I'm an Engineer😂**
 
