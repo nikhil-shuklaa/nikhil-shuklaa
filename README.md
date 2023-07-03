@@ -1,5 +1,5 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://helpinggeeks.com)
-<h1 align="center">Hi 👋, I'm Nikhil Shukla</h1>
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://helpinggeeks.com)</br>
+<div align="center"><hr/><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=E6F7E0&background=4230FF00&center=true&width=500&height=75&lines=Hello%F0%9F%91%8B%2C+I'm+Nikhil%F0%9F%99%8B;Nice+to+Meet+you%F0%9F%98%8A" alt="Hello, I'm Nikhil"></div>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 <p align="center">
     I'm an <b>IT enthusiast</b> , <b>full-stack developer</b> and <b>entrepreneur</b> from India. I have an enormous passion for programming and I'm a huge believer in the power of technology to reach new heights. 
